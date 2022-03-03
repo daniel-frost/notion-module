@@ -1,7 +1,7 @@
 {
     "name": "foundry-notion-module",
-    "title": "",
-    "description": "",
+    "title": "foundry-notion-module",
+    "description": "foundry-notion-module",
     "author": "Daniel Frost",
     "version": "1.0.0",
     "minimumCoreVersion": "9.233",
