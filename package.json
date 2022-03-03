@@ -1,0 +1,8 @@
+{
+  "name": "notion-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Daniel Frost <frost.danielm@gmail.com>",
+  "license": "MIT"
+}
