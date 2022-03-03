@@ -1,8 +1,11 @@
 {
-    "name": "notion-module",
+    "name": "foundry-notion-module",
     "title": "",
     "description": "",
     "author": "Daniel Frost",
     "version": "1.0.0",
-    "minimumCoreVersion": "0.5.0"
+    "minimumCoreVersion": "9.233",
+    "scripts": [
+        "scripts/index.js"
+    ]
 }
