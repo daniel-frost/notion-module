@@ -1,11 +1,8 @@
 {
-    "author": "Daniel Frost <frost.danielm@gmail.com>",
-    "description": "This is designed to be a module for Foundry that integrates with notion. Currently, a playground..",
-    "minimumCoreVersion": "0.5.0",
-    "name": "notion",
-    "scripts": [
-        "scripts/index.js"
-    ],
-    "title": "Notion - Integration with Notion via the Notion API.",
-    "version": "1.0.0"
+    "name": "notion-module",
+    "title": "",
+    "description": "",
+    "author": "Daniel Frost",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0"
 }
